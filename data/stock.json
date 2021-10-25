@@ -1,0 +1,56 @@
+[
+  {
+        "id": 1,
+        "nombre": "Televisor 32' ",
+        "precio": 3000,
+        "imagen": "https://via.placeholder.com/150C/O https://placeholder.com/"
+    }, 
+    {
+        "id": 2,
+        "nombre": "Celular",
+        "precio": 2500,
+        "imagen": "https://via.placeholder.com/150C/O https://placeholder.com/"
+    }, 
+    {
+        "id": 3,
+        "nombre": "Pc Gamer",
+        "precio": 4000,
+        "imagen": "https://via.placeholder.com/150C/O https://placeholder.com/"
+    }, 
+    {
+        "id": 4,
+        "nombre": "Mazo de cartas Yu-Gi-Oh",
+        "precio": 1500,
+        "imagen": "https://via.placeholder.com/150C/O https://placeholder.com/"
+    }, 
+    {
+        "id": 5,
+        "nombre": "Mazo de cartas españolas",
+        "precio": 500,
+        "imagen": "https://via.placeholder.com/150C/O https://placeholder.com/"
+    }, 
+    {
+        "id": 6,
+        "nombre": "Mazo de cartas de magic",
+        "precio": 1500,
+        "imagen": "https://via.placeholder.com/150C/O https://placeholder.com/"
+    }, 
+    {
+        "id": 7,
+        "nombre": "Remera XL",
+        "precio": 1850,
+        "imagen": "https://via.placeholder.com/150C/O https://placeholder.com/"
+    }, 
+    {
+        "id": 8,
+        "nombre": "Zapatillas",
+        "precio": 2000,
+        "imagen": "https://via.placeholder.com/150C/O https://placeholder.com/"
+    }, 
+    {
+        "id": 9,
+        "nombre": "Pantalon",
+        "precio": 1500,
+        "imagen": "https://via.placeholder.com/150C/O https://placeholder.com/"
+    }
+]   
